@@ -8,7 +8,7 @@
 Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="32">, I'm Yasith C Bandara <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50">
 </h1>
 
-<!-- <h1 align="center">Hi 👋, I'm Ishara Maduranga</h1> -->
+<!-- <h1 align="center">Hi 👋, I'm Yasith C Bandara</h1> -->
 <!-- <h3 align="center">I'm Full Stack developer from Sri Lanka</h3> -->
 
 <div align="center"> 
@@ -17,7 +17,7 @@ Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="
 </div>
 
 <img align="right" alt="Coding" width="400" src="https://icomputercoding.in/wp-content/uploads/2022/02/95116-coder.gif">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=isharamaduranga&label=Profile%20views&color=0e75b6&style=flat" alt="isharamaduranga" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=isharamaduranga&label=Profile%20views&color=0e75b6&style=flat" alt="" /> </p>
 
 <p align="left"> <a href="https://twitter.com/ishara9726" target="blank"><img src="https://img.shields.io/twitter/follow/ishara9726?logo=twitter&style=for-the-badge" alt="ishara9726" /></a> </p>
 
@@ -29,9 +29,9 @@ Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="
 
 - 💬 Ask me about **Java , Android , C++**
 
-- 👨‍💻 All of my projects are available at [Click Me!](https://github.com/isharamaduranga?tab=repositories)
+- 👨‍💻 All of my projects are available at [Click Me!](https://github.com/YasithCB?tab=repositories)
 
-- 📫 How to reach me **isharamaduranga500@gmail.com**
+- 📫 How to reach me **yasith.cb2001@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
