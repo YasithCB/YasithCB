@@ -1,7 +1,7 @@
 <!-- [![MasterHead](https://steamuserimages-a.akamaihd.net/ugc/987884882627897716/C93D0286765DEE129571DE5CFAE5EC69E3F9294F/)](https://isharamaduranga.io) -->
 
 <div id="header" align="center">
-  [<img src="https://steamuserimages-a.akamaihd.net/ugc/987884882627897716/C93D0286765DEE129571DE5CFAE5EC69E3F9294F/" width="1000" height="200"/>](https://c.tenor.com/mlVQvTU0LQAAAAAC/matrix-github.gif)
+  <img src="https://steamuserimages-a.akamaihd.net/ugc/987884882627897716/C93D0286765DEE129571DE5CFAE5EC69E3F9294F/" width="1000" height="200"/>
 </div>
 
 <h1 align="center">
