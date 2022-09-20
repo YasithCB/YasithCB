@@ -1,11 +1,11 @@
 <!-- [![MasterHead](https://steamuserimages-a.akamaihd.net/ugc/987884882627897716/C93D0286765DEE129571DE5CFAE5EC69E3F9294F/)](https://isharamaduranga.io) -->
 
 <div id="header" align="center">
-  <img src="https://steamuserimages-a.akamaihd.net/ugc/987884882627897716/C93D0286765DEE129571DE5CFAE5EC69E3F9294F/" width="1000" height="200"/>
+  [<img src="https://steamuserimages-a.akamaihd.net/ugc/987884882627897716/C93D0286765DEE129571DE5CFAE5EC69E3F9294F/" width="1000" height="200"/>](https://c.tenor.com/mlVQvTU0LQAAAAAC/matrix-github.gif)
 </div>
 
 <h1 align="center">
-Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="32">, I'm Yasith C Bandara <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50">
+Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="32">, I'm Yasith C Bandara
 </h1>
 
 <!-- <h1 align="center">Hi 👋, I'm Yasith C Bandara</h1> -->
