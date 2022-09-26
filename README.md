@@ -55,7 +55,7 @@ Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="
 <!-- GitHub Readme Streak Stats - https://github.com/isharamaduranga/github-readme-streak-stats -->
 <p align="center">
   <a href="https://github.com/isharamaduranga/github-readme-streak-stats">
-    <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="isharamaduranga's streak" src="https://github-readme-streak-stats.herokuapp.com?user=isharamaduranga&theme=monokai-metallian&hide_border=true"/>
+    <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="" src="https://github-readme-streak-stats.herokuapp.com?user=isharamaduranga&theme=monokai-metallian&hide_border=true"/>
   </a>
 </p>
 
