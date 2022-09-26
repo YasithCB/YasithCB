@@ -48,14 +48,14 @@ Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="
 
 ## 📊 Github stats
 
-![](https://github-readme-stats.vercel.app/api?username=isharamaduranga&theme=radical&show_icons=true)
+![](https://github-readme-stats.vercel.app/api?username=YasithCB&theme=radical&show_icons=true)
 
 ## 🔥 Streak stats
 
-<!-- GitHub Readme Streak Stats - https://github.com/isharamaduranga/github-readme-streak-stats -->
+<!-- GitHub Readme Streak Stats - https://github.com/YasithCB/github-readme-streak-stats -->
 <p align="center">
-  <a href="https://github.com/isharamaduranga/github-readme-streak-stats">
-    <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="" src="https://github-readme-streak-stats.herokuapp.com?user=isharamaduranga&theme=monokai-metallian&hide_border=true"/>
+  <a href="https://github.com/YasithCB/github-readme-streak-stats">
+    <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="" src="https://github-readme-streak-stats.herokuapp.com?user=YasithCB&theme=monokai-metallian&hide_border=true"/>
   </a>
 </p>
 
@@ -65,7 +65,7 @@ Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="
 <details> 
   <summary>💻 GitHub Profile Stats</summary>
   <br/>
-    <a href="https://github.com/isharamaduranga/github-readme-stats"><img alt="Ishara Maduranga's Github Stats" src="https://github-readme-stats.vercel.app/api?username=isharamaduranga&show_icons=true&theme=tokyonight" height="192px"/></a>
+    <a href="https://github.com/YasithCB/github-readme-stats"><img alt="Ishara Maduranga's Github Stats" src="https://github-readme-stats.vercel.app/api?username=isharamaduranga&show_icons=true&theme=tokyonight" height="192px"/></a>
   <a href="https://github.com/isharamaduranga/github-readme-stats"><img alt="Ishara Maduranga's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=isharamaduranga&layout=compact" height="192px"/></a>
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
