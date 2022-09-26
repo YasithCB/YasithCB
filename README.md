@@ -2,13 +2,13 @@
 Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="32">, I'm Yasith C Bandara
 </h1>
 
-<!-- <h1 align="center">Hi 👋, I'm Yasith C Bandara</h1> -->
-<!-- <h3 align="center">I'm Full Stack developer from Sri Lanka</h3> -->
+<div align="center">
 
-![programmer](https://user-images.githubusercontent.com/104409190/192334132-834c91a6-6fd9-45a4-8256-6de72cbafc87.gif)
-  
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=poppins&size=27&duration=4000&color=002395&background=EB00FF00&center=true&vCenter=true&width=600&lines=I'M++FULL++STACK++DEVELOPER++FROM++SRI++LANKA;SOFTWARE+DESIGNER;WEB-DEVELOPER;UI%2FUX++DESIGNER;BACK-END+DEVELOPER;FRONT-END+DEVELOPER)](https://git.io/typing-svg)
 </div>
+
+![api](https://user-images.githubusercontent.com/104409190/192335489-8859409d-0ac7-4dc1-81df-53a9c3960dca.gif)
+
 
 <img align="right" alt="Coding" width="400" src="https://icomputercoding.in/wp-content/uploads/2022/02/95116-coder.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=YasithCB&label=Profile%20views&color=0e75b6&style=flat" alt="" /> </p>
