@@ -19,8 +19,6 @@ Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="
 <img align="right" alt="Coding" width="400" src="https://icomputercoding.in/wp-content/uploads/2022/02/95116-coder.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=isharamaduranga&label=Profile%20views&color=0e75b6&style=flat" alt="" /> </p>
 
-<p align="left"> <a href="https://twitter.com/ishara9726" target="blank"><img src="https://img.shields.io/twitter/follow/ishara9726?logo=twitter&style=for-the-badge" alt="ishara9726" /></a> </p>
-
 - 👨‍🎓 I’m  **Univercity Student**
 
 - 🌱 I’m currently learning **Layered Architecture & Hibernate**
@@ -50,7 +48,7 @@ Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="
 
 ## 📊 Github stats
 
-![Ishara Maduranga's GitHub stats](https://github-readme-stats.vercel.app/api?username=isharamaduranga&theme=radical&show_icons=true)
+![Yasith C Bandra's GitHub stats](https://github-readme-stats.vercel.app/api?username=isharamaduranga&theme=radical&show_icons=true)
 
 ## 🔥 Streak stats
 
