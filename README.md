@@ -48,7 +48,7 @@ Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="
 
 ## 📊 Github stats
 
-(https://github-readme-stats.vercel.app/api?username=isharamaduranga&theme=radical&show_icons=true)
+![](https://github-readme-stats.vercel.app/api?username=isharamaduranga&theme=radical&show_icons=true)
 
 ## 🔥 Streak stats
 
