@@ -19,7 +19,7 @@ Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="
 
 - 👨‍💻 I'm a Student at **Institute of Software Engineering**
 
-- 💬 Ask me about **Java , Android , C++**
+- 💬 Ask me about **Java , JavaScript**
 
 - 👨‍💻 All of my projects are available at [Click Me!](https://github.com/YasithCB?tab=repositories)
 
